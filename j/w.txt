@@ -1,0 +1,6 @@
+ window.setInterval(function () {
+                if(document.getElementById("dvWarningView")) {
+                   RemoveWarningHtml();
+                }
+            }, 60000);
+            
